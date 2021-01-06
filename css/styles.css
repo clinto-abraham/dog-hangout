@@ -1,0 +1,254 @@
+body{
+  font-family: 'Alice', 'Montserrat', serif;
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+.navbar-brand {
+  font-family: 'Langar', cursive;
+  font-size: 1.8rem;
+}
+
+.nav-item{
+   padding: 0 18px;
+}
+
+.heading{
+  font-family: 'Lobster Two', 'Dancing Script', cursive;
+  size: 3rem;
+  line-height: 1.75;
+  font-weight: 700;
+}
+
+.navbar{
+  padding: 4.5rem;
+}
+
+.cart{
+  width: 100%;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.playstore-icon{
+  width: 25px;
+  height: 25px;
+}
+
+.playstore-btn{
+  margin: 5% 3% 5% 6%;
+
+}
+
+.ios{
+  margin: 5% 3% 5% 0;
+}
+
+.iphone-image{
+  width: 60%;
+}
+
+.section2-icons{
+  color: #ef8172;
+}
+
+.subheading-section2-features{
+  font-family: Montserrat-bold;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.section2-features-content{
+  color: #8f8f8f;
+  padding: 0 15%;
+}
+
+.section2-features-content:hover{
+  color: #ff4c68;
+}
+
+.features-box{
+  padding: 5%;
+}
+
+#features{
+  padding: 7% 5%;
+}
+
+.section3-testimonial{
+  background-color: #ff4c68;
+  padding: 5% 7% 5%;
+  text-align: center;
+  padding-bottom: 3px;
+}
+
+.section3-testimonial-blockquote{
+  padding: 0 15% 2%;
+}
+
+.testimonial-image{
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  margin: 3%;
+}
+
+.section3-testimonial-cite{
+  display: block;
+}
+
+.press-images{
+  display: inline-block;
+  padding: 5% 1% 2%;
+  -webkit-tap-highlight-color: transparent;
+  padding-bottom: 7px;
+
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  font-family: 'Alice', 'Montserrat', serif;
+  text-align: center;
+}
+
+.brand-logo-1{
+  -webkit-tap-highlight-color: transparent;
+
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.5;
+color: #212529;
+font-family: 'Alice', 'Montserrat', serif;
+text-align: center;
+vertical-align: middle;
+border-style: none;
+width: 100px;
+height: 28px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.brand-logo-2{
+  -webkit-tap-highlight-color: transparent;
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.5;
+color: #212529;
+font-family: 'Alice', 'Montserrat', serif;
+text-align: center;
+vertical-align: middle;
+border-style: none;
+width: 180px;
+height: 28px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.brand-logo-3{
+  -webkit-tap-highlight-color: transparent;
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.5;
+color: #212529;
+font-family: 'Alice', 'Montserrat', serif;
+text-align: center;
+vertical-align: middle;
+border-style: none;
+width: 200px;
+height: 39px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.brand-logo-4{
+  -webkit-tap-highlight-color: transparent;
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.5;
+color: #212529;
+font-family: 'Alice', 'Montserrat', serif;
+text-align: center;
+vertical-align: middle;
+border-style: none;
+width: 140px;
+height: 17px;
+padding-left: 10px;
+padding-right: 10px;
+margin-top: 0px;
+}
+
+.cta-section{
+  background-color: #ff4c68;
+  padding: 3% 10% 5%;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: 2.5;
+  align-self: center;
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+}
+
+.contact-me{
+  width: 60%;
+  text-align: center;
+  margin: 100px auto 60px;
+}
+
+.contact-message{
+  margin: 40px auto 60px;
+  width: 50%;
+}
+
+.btn {
+  background: #37e8df;
+  background-image: -webkit-linear-gradient(top, #37e8df, #1775b0);
+  background-image: -moz-linear-gradient(top, #37e8df, #1775b0);
+  background-image: -ms-linear-gradient(top, #37e8df, #1775b0);
+  background-image: -o-linear-gradient(top, #37e8df, #1775b0);
+  background-image: linear-gradient(to bottom, #37e8df, #1775b0);
+  -webkit-border-radius: 48;
+  -moz-border-radius: 48;
+  border-radius: 48px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #c1d1c3;
+  background-image: -webkit-linear-gradient(top, #c1d1c3, #69dbd5);
+  background-image: -moz-linear-gradient(top, #c1d1c3, #69dbd5);
+  background-image: -ms-linear-gradient(top, #c1d1c3, #69dbd5);
+  background-image: -o-linear-gradient(top, #c1d1c3, #69dbd5);
+  background-image: linear-gradient(to bottom, #c1d1c3, #69dbd5);
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #bbbfca;
+  text-align: center;
+  padding: 50px 0 20px;
+}
+
+.footer-link{
+  color: #495464;
+  text-decoration: none;
+}
+
+.copyright{
+  padding-top: 20px;
+  font-weight: 500;
+  color: #f4f4f2;
+  font-size: 0.75rem;
+}
+
+.footer-hangout{
+  text-align: center;
+}
